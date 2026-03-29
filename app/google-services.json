@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709289960061",
+    "project_id": "notkutuphanesi-1ec2b",
+    "storage_bucket": "notkutuphanesi-1ec2b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709289960061:android:b286ee03a056d82829c714",
+        "android_client_info": {
+          "package_name": "com.berkantaynan.notkutuphanesi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkBCVsNI5tVqCUbnlyR7RyblUktPN3Gjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
